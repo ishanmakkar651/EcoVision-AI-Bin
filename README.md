@@ -28,19 +28,6 @@ Awareness tools for teaching sustainability and recycling
 
 Scalable framework for IoT-based waste management systems
 
-📁 Project Structure
-bash
-Copy
-Edit
-EcoVision-AI-Bin/
-│
-├── model/             # Trained AI models
-├── src/               # Source code (detection, sorting, etc.)
-├── dataset/           # Sample training dataset
-├── hardware/          # Circuit diagrams and Arduino/RPi code (if any)
-├── app/               # Web or local interface (Flask/Streamlit)
-├── README.md          # Project documentation
-└── requirements.txt   # Dependencies
 
 
 🤝 Contributions
